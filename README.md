@@ -2,9 +2,9 @@
 
 A quick data analysis and machine learning engineering for brainwaves and emotions.
 
-85-90% Test Accuracy!!!
+87-90% Test Accuracy!!!
 
 Data from https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions
 
-![image](https://github.com/user-attachments/assets/b28a59dc-9678-4dcb-8ec0-2db9077f8eb2)
-![image](https://github.com/user-attachments/assets/27be3dd5-c0d4-4355-b2f1-d68d8354477e)
+![image](https://github.com/user-attachments/assets/6a54b460-f8a2-4f81-8061-c1462b39c89d)
+![image](https://github.com/user-attachments/assets/b084fde3-4187-458e-9d6a-f8ba8a47cc8d)
