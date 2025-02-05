@@ -1,6 +1,6 @@
 # Machine Learning for Neuroscience
 
-A quick data analysis and machine learning engineering for brainwaves and emotions.
+Super quick data analysis and machine learning engineering for brainwaves and emotions.
 
 87-90% Test Accuracy!!!
 
