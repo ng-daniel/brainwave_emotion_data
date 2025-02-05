@@ -1,4 +1,4 @@
-Super quick data analysis and machine learning engineering for brainwaves and emotions.
+Small exercise to learn machine learning engineering for brainwaves.
 
 87-90% Test Accuracy!!!
 
